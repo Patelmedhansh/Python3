@@ -13,7 +13,7 @@ print("he was " + character_age + " years old ")
 # numbers
 # strings
 # boleean (true or false )
-# note - there are bunch of other types of data but as a new python programmer you will using these 3 most of the time :)
+# note - there are bunch of other types of data but as a new python programmer you will be using these 3 most of the time :)
 
 
 
