@@ -30,7 +30,7 @@ print(fruits)
 # Extend Function 
 # this allows us to append another list to the original one 
 
-friends =[ "rahul" ," raj"]
+friends =["vedant", "VTNT"]
  
 fruits.extend(friends) 
 print(fruits) 
